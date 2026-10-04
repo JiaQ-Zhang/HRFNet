@@ -1,7 +1,7 @@
 # HRFNet
 
 <div align="center">
-< img src="[https://github.com/JiaQ-Zhang/HRFNet/blob/main/workflow.jpg" width=603 />
+<img src="https://github.com/JiaQ-Zhang/HRFNet/blob/main/workflow.jpg" width=603 />
 </div>
 
 
