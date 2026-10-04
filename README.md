@@ -1,8 +1,4 @@
 # HRFNet
-a Hyperspectral-RGB Fusion Network
-
-
-# PCELM-ELM
 
 <div align="center">
 < img src="[https://github.com/JiaQ-Zhang/HRFNet/blob/main/workflow.jpg" width=603 />
@@ -36,9 +32,7 @@ pip install Scipy
 
 pip install Matplotlib
 
-# Clone the repo and run it directly
 
-[git clone at：https://github.com/Xiaqiong-Fan/PCELM-ELM.git](https://github.com/Xiaqiong-Fan/PCELM-ELM.git) 
 
 
 # Contact
