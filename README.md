@@ -5,7 +5,7 @@ a Hyperspectral-RGB Fusion Network
 # PCELM-ELM
 
 <div align="center">
-< img src="https://github.com/JiaQ-Zhang/HRFNet/main/workflow.jpg" width=603 />
+< img src="[https://github.com/JiaQ-Zhang/HRFNet/blob/main/workflow.jpg" width=603 />
 </div>
 
 
