@@ -1,7 +1,0 @@
-﻿metric,class,accuracy,precision,sensitivity,specificity,f1_score,sample_count,loss
-chroma,overall,96.0,96.36,96.0,99.0,95.99,50,0.150225
-color,overall,96.67,97.22,96.67,99.33,96.63,60,0.121174
-identity,overall,98.0,98.18,98.0,99.5,97.99,50,0.070239
-maturity,overall,94.0,94.18,94.0,98.5,93.99,50,0.101667
-oil_content,overall,92.5,93.33,92.5,97.5,92.6,40,0.210045
-structure,overall,95.0,95.0,95.0,98.33,95.0,40,0.151045
