@@ -1,1 +1,6 @@
-11
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+numpy==2.4.6
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
