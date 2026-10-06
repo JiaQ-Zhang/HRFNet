@@ -13,12 +13,16 @@ Using tobacco leaves as a representative agricultural product, 94,500 paired hyp
 # Installation
 ## Install Python
 
-Python 3.8 is recommended.
+Python 3.11.14 is recommended.
 
 [python](https://www.python.org)
 
 
 ## Install dependent packages
+
+Install the required packages using:
+
+pip install -r requirements.txt
 
 **1.Numpy**
 
