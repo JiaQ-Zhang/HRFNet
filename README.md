@@ -24,17 +24,6 @@ Install the required packages using:
 
 pip install -r requirements.txt
 
-**1.Numpy**
-
-pip install numpy
-
-**2.Scipy**
-
-pip install Scipy
-
-**3.Matplotlib**
-
-pip install Matplotlib
 
 
 
